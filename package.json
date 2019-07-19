@@ -1,5 +1,5 @@
 {
-  "name": "react-app-polyfill",
+  "name": "react-polyfill-core-js-pure",
   "version": "1.0.1",
   "description": "Polyfills for various browsers including commonly used language features",
   "repository": {
